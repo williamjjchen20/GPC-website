@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Green Prosperity Club Events</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="styles/general.css" />
+    <link rel="stylesheet" href="styles/website-images.css" />
+    <link rel="stylesheet" href="styles/header.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="left-section">
+        <a href="https://greenprosperityclub.com/" target="_blank">
+          <img src="event-images/GPC-logo.webp" alt="" />
+        </a>
+
+        <div class="page-title">Green Prosperity Club Events</div>
+      </div>
+      <div class="right-section">
+        <a href="#general-events" class="anchor">
+          <div class="event-type-anchor">General Events</div>
+        </a>
+
+        <a href="#stevens-creek" class="anchor">
+          <div class="event-type-anchor">Stevens Creek County Park</div>
+        </a>
+      </div>
+    </header>
+
+    <div class="event-type" id="general-events">General Events</div>
+    <!-- grids for images -->
+    <main class="image-grid">
+      <div class="events">
+        <div class="event-location">Baylands Nature Preserve (12/21/2020)</div>
+        <img class="event-image" src="event-images/2020-12-21.webp" alt="" />
+        <div class="event-info">
+          Our very first event took place at the beautiful Baylands Nature
+          Preserve. We helped remove a good bit of trash along the banks and
+          trails!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">Overfelt Library (2/27/2021)</div>
+        <img class="event-image" src="event-images/2021-2-27.webp" alt="" />
+        <div class="event-info">
+          We helped out OurCityForest with different tasks at Overfelt Library,
+          such as removing weeds and pruning bushes!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">Don Edwards Wildlife Refuge (4/4/2021)</div>
+        <img class="event-image" src="event-images/2021-4-4.webp" alt="" />
+        <div class="event-info">
+          Fun cleanup event at Don Edwards in the San Francisco Bay! We ended up
+          taking a big lap around the preserve and picked up many bags of trash.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">Alviso Marina County Park (9/19/2021)</div>
+        <img class="event-image" src="event-images/2021-9-19.webp" alt="" />
+        <div class="event-info">
+          Celebrating the statewide California Coastal Cleanup Day by picking up
+          trash around the incredible Alviso County Park area!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">
+          Don Edwards Wildlife Refuge (3/27/2022)
+        </div>
+        <img class="event-image" src="event-images/2022-3-27.webp" alt="" />
+        <div class="event-info">
+          This time, we headed back to Don Edwards to remove the build-up of
+          trash around the streets and trails.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">Butcher Park (6/12/2022)</div>
+        <img class="event-image" src="event-images/2022-6-12.webp" alt="" />
+        <div class="event-info">
+          OurCityForest hosted a park workday at Butcher Park, where we helped
+          prune trees and remove weeds!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">
+          Penetencia Creek County Park (6/25/2022)
+        </div>
+        <img class="event-image" src="event-images/2022-6-25.webp" alt="" />
+        <div class="event-info">
+          We planted trees with OurCityForest at Penetencia Creek County Park.
+          We split into two separate teams and planted 3 trees combined!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">OurCityForest Nursery (7/23/2022)</div>
+        <img class="event-image" src="event-images/2022-7-23.webp" alt="" />
+        <div class="event-info">
+          Our group worked on maintenance tasks, such as sorting buckets, at
+          OurCityForest's downtown nursery location.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">
+          OurCityForest Urban Education Center (9/3/2022)
+        </div>
+        <img
+          class="event-image"
+          src="event-images/2022-9-3.webp"
+          alt=""
+          style="object-position: 0px, -5px"
+        />
+        <div class="event-info">
+          We helped out OurCityForest at their Urban Forestry Education Center.
+          Our group spread out mulch and watered the trees.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">Guadalupe River/Alviso (9/17/2022)</div>
+        <img
+          class="event-image"
+          src="event-images/2022-9-17.webp"
+          alt=""
+          style="object-position: bottom"
+        />
+        <div class="event-info">
+          Our second California Coastal Cleanup Day took place around the
+          Guadalupe River. We picked up trash and debris to celebrate the
+          statewide tradition!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">Alviso Marina County Park (1/22/2023)</div>
+        <img class="event-image" src="event-images/2023-1-22.webp" alt="" />
+        <div class="event-info">
+          GPC took a visit to Alviso again to check out the record-high tides
+          that occured that weekend. We removed trash from the area and got to
+          experience the massive 10ft+ tides!
+        </div>
+      </div>
+    </main>
+
+    <div class="event-type" id="stevens-creek">Stevens Creek County Park</div>
+    <main class="image-grid">
+      <div class="events">
+        <div class="event-location">5/30/2021</div>
+        <img class="event-image" src="event-images/SC-2021-5-30.webp" alt="" />
+        <div class="event-info">
+          Our first event with Stevens Creek County Park. We took a trip down to
+          the reservoir to remove trash lining the edges of the water.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">6/27/2021</div>
+        <img class="event-image" src="event-images/SC-2021-6-27.webp" alt="" />
+        <div class="event-info">
+          Cooley Picnic Area is a wonderful spot to sit back and relax! We took
+          the opportunity to clean up the area of trash.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">7/25/2021</div>
+        <img class="event-image" src="event-images/SC-2021-7-25.webp" alt="" />
+        <div class="event-info">
+          The main reservoir dried up completely, revealing trash scattered
+          along the bottom. GPC took this rare chance to help the park tires and
+          miscellaneous trash from the reservoir.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">8/15/2021</div>
+        <img class="event-image" src="event-images/SC-2021-8-15.webp" alt="" />
+        <div class="event-info">
+          This time, we stuck around the visitors center area and helped the
+          rangers spread mulch around the front area for future planting
+          projects.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">10/31/2021</div>
+        <img
+          style="object-position: top"
+          class="event-image"
+          src="event-images/SC-2021-10-31.webp"
+          alt=""
+        />
+        <div class="event-info">
+          While the reservoir was still not completely full, the group helped
+          remove as much trash as possible from the banks. In the end, we had
+          enough to fill the bags in the image plus more!
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">11/21/2021</div>
+        <img class="event-image" src="event-images/SC-2021-11-21.webp" alt="" />
+        <div class="event-info">
+          This time, we tried something new: pruning bushes! Our location was by
+          a narrow section of the trail being blocked by overgrown plants.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">1/2/2022</div>
+        <img class="event-image" src="event-images/SC-2022-1-2.webp" alt="" />
+        <div class="event-info">
+          For the first event of the brand new year, we worked to remove
+          invasive French Broom from around the park. In total, we cut down
+          enough to fill up the ranger's pickup truck.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">1/17/2022</div>
+        <img
+          class="event-image"
+          src="event-images/SC-2023-1-17-resized.jpeg"
+          alt=""
+          style="object-position: 0px -10px"
+        />
+        <div class="event-info">
+          Because of how successful the last event was, the park hosted another
+          French Broom removal opportunity, this time open to the general
+          public. With a much larger group, we ended up finding more success.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">2/19/2023</div>
+        <img
+          class="event-image"
+          src="event-images/SC-2023-2-19-resized.jpeg"
+          alt=""
+        />
+        <div class="event-info">
+          Because of how successful the last event was, the park hosted another
+          French Broom removal opportunity, this time open to the general
+          public. With a much larger group, we ended up finding more success.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">3/12/2023</div>
+        <img class="event-image" src="event-images/SC-2023-3-12.webp" alt="" />
+        <div class="event-info">
+          Despite the sudden rain, we helped the park with some maintenance
+          tasks around a popular picnic spot. We pruned trees, cleaned up the
+          tables of staples, and sweep leaves.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">4/30/2023</div>
+        <img
+          class="event-image"
+          src="event-images/SC-2023-4-30-resized.jpeg"
+          alt=""
+          style="object-position: -2px top"
+        />
+        <div class="event-info">
+          We helped paint the no parking curbs around the main reservoir parking
+          lot! The sun was pretty bright, but we completed a few curbs.
+        </div>
+      </div>
+
+      <div class="events">
+        <div class="event-location">7/2/2023</div>
+        <img class="event-image" src="event-images/SC-2023-7-2.jpeg" alt="" />
+        <div class="event-info">
+          This time, we're back at the visitors center to help spread mulch to
+          encourage plant growth.
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
